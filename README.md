@@ -2,6 +2,11 @@
 
 Ceci est le repo de notre Back, le Front se trouve [ici](https://github.com/adatechschool/projet_collectif_vente_de_meubles-front-team_retrovibe)
 
+## Mon rôle dans ce projet collectif
+
+- En pair-programming avec Jérémy, j'ai posé les fondations du back : création de la bdd, de l'API (routes, modèles, CRUD).
+- Lorsque nous sommes passés en équipe front, notre back était fonctionnel et répondait aux requêtes envoyées par le front.
+
 ## Template server API Rest
 
     []: # Language: PHP
